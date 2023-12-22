@@ -1,0 +1,7 @@
+C:\Users\TURNO MAÑANA\source\repos\BackEnd_servicioTarde\BackEnd_servicioTarde\obj\Debug\net8.0\BackEnd_servicioTarde.csproj.AssemblyReference.cache
+C:\Users\TURNO MAÑANA\source\repos\BackEnd_servicioTarde\BackEnd_servicioTarde\obj\Debug\net8.0\BackEnd_servicioTarde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TURNO MAÑANA\source\repos\BackEnd_servicioTarde\BackEnd_servicioTarde\obj\Debug\net8.0\BackEnd_servicioTarde.AssemblyInfoInputs.cache
+C:\Users\TURNO MAÑANA\source\repos\BackEnd_servicioTarde\BackEnd_servicioTarde\obj\Debug\net8.0\BackEnd_servicioTarde.AssemblyInfo.cs
+C:\Users\TURNO MAÑANA\source\repos\BackEnd_servicioTarde\BackEnd_servicioTarde\obj\Debug\net8.0\BackEnd_servicioTarde.csproj.CoreCompileInputs.cache
+C:\Users\TURNO MAÑANA\source\repos\BackEnd_servicioTarde\BackEnd_servicioTarde\obj\Debug\net8.0\BackEnd_servicioTarde.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TURNO MAÑANA\source\repos\BackEnd_servicioTarde\BackEnd_servicioTarde\obj\Debug\net8.0\BackEnd_servicioTarde.MvcApplicationPartsAssemblyInfo.cache
